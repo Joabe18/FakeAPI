@@ -1,7 +1,7 @@
 {
   "Livros": [
     { "id": 1, "titulo": "A benção da prosperidade", "Autor": "Erasmo Duarte" },
-    { "id": 2, "titulo": "A bíblia em 60 minutos", "Autor": "Philip Law" },
+    { "id": 2, "titulo": "A Bíblia em 60 minutos", "Autor": "Philip Law" },
     { "id": 3, "titulo": "Os 7 hábitos das pessoas altamente eficazes", "Autor": "Stephen R. Covey" },
     { "id": 4, "titulo": "Como organizar sua vida finaceira", "Autor": "Gustavo Cerbasi" }
   ]
